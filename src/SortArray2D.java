@@ -45,7 +45,7 @@ public class SortArray2D {
 
 		// arrays average calculation
 		arraySize = Arr01.length;
-		double[] averageArr = new double[arraySize]; // average and 2D arrays same size
+		double[] averageArr = new double[arraySize]; // average and 2D arrays at the same size
 		for (int i = 0; i < arraySize; i++) {
 
 			for (int j : Arr01[i]) {
